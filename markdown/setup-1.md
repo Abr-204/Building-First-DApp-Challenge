@@ -3,7 +3,7 @@
 
 ## Environment Setup 
 
-Here's the stuff we'll need 
+Here's the stuff we'll need
 
 - NVM 
 - Node 
