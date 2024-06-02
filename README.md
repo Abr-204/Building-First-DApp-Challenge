@@ -2,7 +2,7 @@
 This repository includes building a DApp developed for an assessment challenge. DApp will allow a particular organization to create a vesting schedule for their tokens. 
 
 
-## Descriptiont
+## Description
 
 An assessment challenge led to the development of a DApp, which is available in this repository. All of the following conditions are met by the contract:
 
@@ -22,16 +22,13 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile Tokens.sol" button.
 ![image](https://github.com/vikash-kumar-mahto/Solidity-Assessment-1/assets/93486699/d13918d6-fba5-4814-b50a-bb3852a97f2a)
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Tokens" contract from the dropdown menu, and then click on the "Deploy" button.
-
-Once the contract is deployed, you can interact with it by calling the burn and mint function. and you can modify the value of the fuctions using the addresses and deploy it accordingly
-
+We have created solidity contracts for registering orgs and adding stakeholders for each. Next step is to create a front end page for users to connect their wallet and register their org and add stakeholders and vesting details.Then,create a page for users to be able to withdraw if they are whitelisted otherwise only org admin should be able to withdraw.
 ## Help
 if there is any issue while compiling the code then make sure the compiler version which you have written in the code must be the same when you selecting the compiler.
 
 ## Authors
 
-Vikash Kumar Mahto
+Abhay Rana
 [@Abhay](https://www.linkedin.com/in/abhay-rana-0a25a6227/)
 
 ## License
