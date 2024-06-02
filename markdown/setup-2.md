@@ -1,4 +1,4 @@
-# Smart Contract 
+# Smart Contract
 
 Once we have the environment set up, we actually need to create a basic contract. The hello world for DApps is a greeter contract that does both reading and writing to the chain. 
 
