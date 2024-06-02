@@ -1,4 +1,4 @@
-# Let's Mint a New Token
+# Let's Mint a New Token 
 
 In this section, we are going to create a new Token called `REC`. This will be a subcurrency and will showcase reads and writes to the etherium blockchain. 
 
