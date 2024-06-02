@@ -1,4 +1,4 @@
-# Deploying the Greeter Smart Contract 
+# Deploying the Greeter Smart Contract
 
 A deploy script is created for you by Hardhat automatically. Just change it to a more meaningful name. 
 
