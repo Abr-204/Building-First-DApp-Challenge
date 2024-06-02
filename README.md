@@ -20,7 +20,7 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 ### Executing program
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile Tokens.sol" button.
-![image](https://github.com/vikash-kumar-mahto/Solidity-Assessment-1/assets/93486699/d13918d6-fba5-4814-b50a-bb3852a97f2a)
+![image](https://github.com/Abr-204/Building-First-DApp-Challenge)
 
 We have created solidity contracts for registering orgs and adding stakeholders for each. Next step is to create a front end page for users to connect their wallet and register their org and add stakeholders and vesting details.Then,create a page for users to be able to withdraw if they are whitelisted otherwise only org admin should be able to withdraw.
 ## Help
